@@ -1,6 +1,6 @@
 import React from 'react';
 
-export const accountSummary = () => {
+export const AccountSummary = () => {
     return (
         <div className='in-exp-con'>
             <div>
